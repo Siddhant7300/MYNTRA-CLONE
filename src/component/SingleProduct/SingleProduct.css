@@ -1,0 +1,39 @@
+.single-product
+{
+    text-align: center;
+    border: 2px solid gray;
+}
+
+.single-product-images
+{
+    width: 100%;
+}
+.single-product-title
+{
+    font-size: 25   px;
+    color: chartreuse;
+    font-weight: bolder;
+}
+.cart-info
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.product-added
+{
+    border-radius: 50%;
+    width: 50px;
+    margin: 3px 10px;
+    font-size: 24px;
+    background-color: aquamarine;
+}
+.product-subtracted
+{
+    border-radius: 50%;
+    width: 50px;
+    margin: 3px 10px;
+    font-size: 24px;
+    background-color: aquamarine;
+}
